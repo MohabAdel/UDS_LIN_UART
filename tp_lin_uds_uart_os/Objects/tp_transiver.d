@@ -1,0 +1,16 @@
+.\objects\tp_transiver.o: SAL\tp_transiver.c
+.\objects\tp_transiver.o: SAL\tp_transiver.h
+.\objects\tp_transiver.o: SAL\../RAL/types.h
+.\objects\tp_transiver.o: SAL\../CPX/UART/UART.h
+.\objects\tp_transiver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tp_transiver.o: SAL\../CPX/UART/../../RAL/tm4c123gh6pm.h
+.\objects\tp_transiver.o: SAL\../CPX/UART/FIFO_Modi.h
+.\objects\tp_transiver.o: SAL\../CPX/UART/../../os/os.h
+.\objects\tp_transiver.o: SAL\../CPX/UART/../../os/os_cfg.h
+.\objects\tp_transiver.o: SAL\../os/os.h
+.\objects\tp_transiver.o: SAL\../os/os_cfg.h
+.\objects\tp_transiver.o: SAL\NVICInterruptHandler.h
+.\objects\tp_transiver.o: SAL\../HAL/sysctrl.h
+.\objects\tp_transiver.o: SAL\../HAL/../RAL/hw_types.h
+.\objects\tp_transiver.o: SAL\../HAL/../RAL/hw_sysctrl.h
+.\objects\tp_transiver.o: SAL\../HAL/../RAL/hw_gpio.h

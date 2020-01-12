@@ -1,0 +1,82 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\UARTTestMain.c)(0x59D2B02A)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\uarttestmain.o --omf_browse .\objects\uarttestmain.crf --depend .\objects\uarttestmain.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C5634)
+I (CPX/UART/UART.h)(0x59CE6AA6)
+I (CPX/UART/../../RAL/tm4c123gh6pm.h)(0x599CC400)
+I (CPX/UART/FIFO_Modi.h)(0x59CE6ABB)
+I (CPX/UART/../../os/os.h)(0x590F424C)
+I (CPX/UART/../../os/os_cfg.h)(0x58D2583A)
+I (SAL/tp_transiver.h)(0x59D0FC98)
+I (SAL/../RAL/types.h)(0x59B05EEF)
+I (SAL/../CPX/UART/UART.h)(0x59CE6AA6)
+I (SAL/../CPX/UART/FIFO_Modi.h)(0x59CE6ABB)
+I (SAL/../CPX/UART/../../os/os.h)(0x590F424C)
+I (SAL/../CPX/UART/../../os/os_cfg.h)(0x58D2583A)
+I (SAL/../os/os.h)(0x590F424C)
+I (SAL/../os/os_cfg.h)(0x58D2583A)
+I (SAL/NVICInterruptHandler.h)(0x59918610)
+I (SAL/../HAL/sysctrl.h)(0x59CE6913)
+I (SAL/../HAL/../RAL/hw_types.h)(0x59B43D7B)
+I (SAL/../HAL/../RAL/hw_sysctrl.h)(0x598E9312)
+I (SAL/../HAL/../RAL/hw_gpio.h)(0x59B44A80)
+I (os/os.h)(0x590F424C)
+I (os/os_cfg.h)(0x58D2583A)
+F (.\SAL\tp_transiver.c)(0x59D2B401)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\tp_transiver.o --omf_browse .\objects\tp_transiver.crf --depend .\objects\tp_transiver.d)
+I (SAL\tp_transiver.h)(0x59D0FC98)
+I (SAL\../RAL/types.h)(0x59B05EEF)
+I (SAL\../CPX/UART/UART.h)(0x59CE6AA6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C5634)
+I (SAL\../CPX/UART/../../RAL/tm4c123gh6pm.h)(0x599CC400)
+I (SAL\../CPX/UART/FIFO_Modi.h)(0x59CE6ABB)
+I (SAL\../CPX/UART/../../os/os.h)(0x590F424C)
+I (SAL\../CPX/UART/../../os/os_cfg.h)(0x58D2583A)
+I (SAL\../os/os.h)(0x590F424C)
+I (SAL\../os/os_cfg.h)(0x58D2583A)
+I (SAL\NVICInterruptHandler.h)(0x59918610)
+I (SAL\../HAL/sysctrl.h)(0x59CE6913)
+I (SAL\../HAL/../RAL/hw_types.h)(0x59B43D7B)
+I (SAL\../HAL/../RAL/hw_sysctrl.h)(0x598E9312)
+I (SAL\../HAL/../RAL/hw_gpio.h)(0x59B44A80)
+F (.\SAL\NVICInterruptHandler.c)(0x59CE6906)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\nvicinterrupthandler.o --omf_browse .\objects\nvicinterrupthandler.crf --depend .\objects\nvicinterrupthandler.d)
+I (SAL\NVICInterruptHandler.h)(0x59918610)
+I (SAL\../HAL/sysctrl.h)(0x59CE6913)
+I (SAL\../HAL/../RAL/types.h)(0x59B05EEF)
+I (SAL\../HAL/../RAL/hw_types.h)(0x59B43D7B)
+I (SAL\../HAL/../RAL/hw_sysctrl.h)(0x598E9312)
+I (SAL\../HAL/../RAL/hw_gpio.h)(0x59B44A80)
+F (.\RAL\tm4c123gh6pm.h)(0x599CC400)()
+F (.\RAL\types.h)(0x59B05EEF)()
+F (.\os\os.c)(0x59CF9AC9)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\os.o --omf_browse .\objects\os.crf --depend .\objects\os.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C5634)
+I (os\os.h)(0x590F424C)
+I (os\os_cfg.h)(0x58D2583A)
+I (os\../RAL/tm4c123gh6pm.h)(0x599CC400)
+F (.\os\os_cfg.c)(0x59CE5CCC)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\os_cfg.o --omf_browse .\objects\os_cfg.crf --depend .\objects\os_cfg.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C5634)
+I (os\os_cfg.h)(0x58D2583A)
+I (os\../RAL/tm4c123gh6pm.h)(0x599CC400)
+F (.\os\osasm.s)(0x58BD8A8B)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\listings\osasm.lst --xref -o .\objects\osasm.o --depend .\objects\osasm.d)
+F (.\CPX\PLL\PLL.c)(0x59CE65FB)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\pll.o --omf_browse .\objects\pll.crf --depend .\objects\pll.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C5634)
+I (CPX\PLL\PLL.h)(0x599AFA59)
+I (CPX\PLL\../../RAL/tm4c123gh6pm.h)(0x599CC400)
+F (.\CPX\UART\FIFO_Modi.c)(0x59C6DD4D)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\fifo_modi.o --omf_browse .\objects\fifo_modi.crf --depend .\objects\fifo_modi.d)
+I (CPX\UART\FIFO_Modi.h)(0x59CE6ABB)
+F (.\CPX\UART\UART.c)(0x59CF9ADA)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (CPX\UART\UART.h)(0x59CE6AA6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C5634)
+I (CPX\UART\../../RAL/tm4c123gh6pm.h)(0x599CC400)
+I (CPX\UART\FIFO_Modi.h)(0x59CE6ABB)
+I (CPX\UART\../../os/os.h)(0x590F424C)
+I (CPX\UART\../../os/os_cfg.h)(0x58D2583A)
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x59CB978C)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x59AD49C4)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C5634)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F7186)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x551060BC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm4.h)(0x5984E0B6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x5984E0B6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x5984E0B6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x5984E0B6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\mpu_armv7.h)(0x5984E0B6)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B76296)
